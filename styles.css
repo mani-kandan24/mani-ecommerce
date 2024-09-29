@@ -1,0 +1,24 @@
+/* Custom CSS */
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+footer p {
+    margin: 0;
+}
+.imgs{
+    height: 80px;
+    width: 90px;
+}
